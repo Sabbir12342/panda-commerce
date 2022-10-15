@@ -38,3 +38,23 @@
 .categories img{
     width: 100px;
 }
+.shoes div .card{
+    box-shadow: 10px 10px 20px lightgray;
+    border: none;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+.backpack div .card{
+    box-shadow: 10px 10px 20px lightgray;
+    border: none;
+}
+.touch{
+    background-color: lightgoldenrodyellow;
+    height: 300px;
+}
+footer{
+    text-align: center;
+    font-size: 12px;
+}
